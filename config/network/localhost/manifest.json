@@ -2,15 +2,5 @@
     "serverAddress": "localhost",
     "serverName": "Monad Technologies",
     "iconName": "Moon-icon.png",
-    "terminalID": "local",
-    "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "anonymous"
-    },
-    "initialHistory": {
-        "user": [
-            "login admin@admin"
-        ],
-    }
+    "terminalID": "local"
 }
