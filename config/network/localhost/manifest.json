@@ -2,11 +2,11 @@
     "serverAddress": "localhost",
     "serverName": "Test",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "home",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "anonymous"
+        "userName": "user"
     },
     "initialHistory": {
         "user": [
