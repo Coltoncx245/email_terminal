@@ -1,6 +1,19 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Monad Technologies",
+    "serverName": "Node Y56 Intranet",
     "iconName": "Moon-icon.png",
-    "terminalID": "local"
+    "terminalID": "Y56",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "anonymous"
+    },
+    "initialHistory": {
+        "user": [
+            "login admin@admin"
+        ],
+        "admin": [
+            "ping fbi.gov"
+        ]
+    }
 }
